@@ -332,13 +332,13 @@ img {
     display: none;
 }
 
-.footer-links-group{
+.footer-link-group{
     margin-bottom:4rem;
     font-size: 1.6rem;
     grid-column:  span 2 ;
 }
 
-.footer-links-group .footer-title{
+.footer-link-group .footer-title{
     font-size: inherit;
     padding-top: .8rem;
     font-weight: 100;
